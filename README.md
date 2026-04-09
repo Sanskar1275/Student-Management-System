@@ -32,11 +32,9 @@ This project demonstrates core concepts of Java such as GUI development, event h
 
 ```
 StudentManagementSystem/
-│── src/
-│   └── StudentManagementSystem.java
-│── data/
-│   └── students.txt
-│── README.md
+│── StudentManagementSystem.java
+│── students.txt
+
 ```
 
 ---
